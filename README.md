@@ -1,6 +1,6 @@
 # BITT
 
-*B*eyond 
-*I*ntelligence 
-*T*oward 
-*T*ruth
+**B**eyond 
+**I**ntelligence 
+**T**oward 
+**T**ruth
